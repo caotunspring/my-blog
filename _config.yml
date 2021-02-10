@@ -22,8 +22,8 @@ title: 草屯春分
 email: caotunspring@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
  Blazor 取代 Web Forms, EF Core 取代 EF 6
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/my-blog" # the subpath of your site, e.g. /blog
+url: "https://caotunspring.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: caotunspring
 github_username:  caotunspring
 
